@@ -5,7 +5,10 @@ EPOS Application customized for Bar and Resturant(Example Name: Beer Palace). It
 Programming Lnaguage:C# windows forms.
 Storage used- Basic text file.
 Functions used- basic search, Read and write for file.
-Screenshots
+Developers Manual is also attached- 
+ 
+ Screenshots
+ 
 ![ADD Button 1](https://user-images.githubusercontent.com/76851960/108360556-49898500-71e9-11eb-9389-a442229872c4.png)
 ![ADD Button 2](https://user-images.githubusercontent.com/76851960/108360559-4a221b80-71e9-11eb-96ee-e456e84bca9f.PNG)
 ![ADD button](https://user-images.githubusercontent.com/76851960/108360562-4a221b80-71e9-11eb-8202-e136c97a9845.png)
